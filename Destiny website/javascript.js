@@ -53,8 +53,8 @@ function oneFish() {
         x.style.display = "none";
     }
 }
-function click() {
-    var x = document.getElementById("Click");
+function bait() {
+    var x = document.getElementById("Bait");
     if (x.style.display === "none") 
     {
         x.style.display = "block";

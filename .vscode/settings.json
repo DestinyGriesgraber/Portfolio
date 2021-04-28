@@ -1,3 +1,4 @@
 {
     "python.pythonPath": "/Users/iwe/opt/anaconda3/bin/python"
+    "auto-close-tag.enableAutoCloseTag": true
 }
