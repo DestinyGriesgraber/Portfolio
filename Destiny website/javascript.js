@@ -31,17 +31,6 @@ function quarentine() {
         x.style.display = "block";
     }
 }
-function colaborative() {
-    var x = document.getElementById("Colaborative");
-    if (x.style.display === "block") 
-    {
-        x.style.display = "none";
-    }
-    else 
-    {
-        x.style.display = "block";
-    }
-}
 function oneFish() {
     var x = document.getElementById("OneFish");
     if (x.style.display === "block") 
